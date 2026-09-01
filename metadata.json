@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Full-scale personal expense tracker with multi-account wallet management, budgeting alerts, financial goals, recurring transactions, analytics, and AI spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
